@@ -2,7 +2,7 @@
 
 def Fibonacci(n): 
 	if n<0: 
-		print("Incorrect input") 
+		print("Incorrect input from files") 
 	# First Fibonacci number is 0 
 	elif n==1: 
 		return 0
